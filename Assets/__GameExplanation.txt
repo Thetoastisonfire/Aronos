@@ -1,0 +1,5 @@
+Aronos is a game where players control a small, cracked rectangle character who is banished from a heaven-like realm to a dark dungeon called Below. To survive, the character must negotiate with a hooded figure for meat, balancing the figure’s affinity to avoid negative consequences. The objective is to dig upwards to reach a hatch that leads back to heaven.
+
+Upon returning to heaven, players navigate a cave with a jumping puzzle before meeting a joyful shape character and observing grand cities in the distance. The final challenge involves climbing a mountain to confront a large winged eye that controls heaven. After a boss battle, players face a moral choice: destroy the eye for revenge, which harms the other shapes in heaven, or choose forgiveness, restoring the character to a happy shape but leaving the status quo unchanged.
+
+Aronos features a distinctive art style blending geometric shapes with eldritch elements, including a biblically accurate angel and an enigmatic hooded figure. The game includes puzzle and platforming elements, and is optimized for mobile devices with a user interface designed for touch screens.
